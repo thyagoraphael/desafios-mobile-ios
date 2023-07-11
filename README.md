@@ -61,6 +61,8 @@ Lista de desafios de empresas para plataforma iOS.
 | iFood 01              | https://www.ifood.com.br/                      | [iOS](https://github.com/ifood/ifood-mobile-test)
 | iFood 02 Osasco       | https://www.ifood.com.br/                      | [iOS](https://github.com/ifood/vemproifood-osasco)
 | iFood 03              | https://www.ifood.com.br/                      | [iOS](https://github.com/ifood/vemproifood-mobile)
+| BTG Pactual           | https://www.btgpactual.com                     | [iOS](https://github.com/btgpactualdigitaldev/iOS-challenge-BTG)
+| B2W Digital           | americanasmarketplace.com.br                   | [iOS](https://github.com/b2w-marketplace/challenge-ios)
 
 
 ## Deseja contribuir?
